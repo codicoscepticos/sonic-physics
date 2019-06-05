@@ -1,0 +1,5 @@
+﻿// Number of tiles without height map data:
+// Dec:
+29
+// Hex:
+1D
